@@ -1,0 +1,17 @@
+package postordertraverserBT;
+
+
+class BinaryTree {
+    // Preorder traversal method
+    public void postorderTraverser(Node node) {
+        if (node == null) {
+            return;  // If the node is null, just return
+        }
+        // Print the current node's data
+        postorderTraverser(node.left);
+        postorderTraverser(node.right);
+        System.out.println(node.data);
+        // Recursively traverse the left and right subtree
+       
+    }
+}

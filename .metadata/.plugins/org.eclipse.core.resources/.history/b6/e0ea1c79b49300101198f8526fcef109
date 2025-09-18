@@ -1,0 +1,16 @@
+package inorderTraverserBT;
+
+public class BinaryTree {
+	
+	public Node inorderTraverser(Node node) {
+		if(node==null) {
+			return node;
+		}
+		else {
+			inorderTraverser(node.left);
+			System.out.println(node.data);
+			inorderTraverser(node.right);
+		}
+		return node;
+	}
+}

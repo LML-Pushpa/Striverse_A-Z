@@ -1,0 +1,17 @@
+package preorderTraverserBT;
+
+public class BinaryTree {
+	
+	public Node preorderTraverser(Node node) {
+		if(node==null) {
+			return node;
+		}
+		else
+		{
+			System.out.println(node.data);
+			preorderTraverser(node.left);
+			preorderTraverser(node.right);
+		}
+		return node;
+	}
+}

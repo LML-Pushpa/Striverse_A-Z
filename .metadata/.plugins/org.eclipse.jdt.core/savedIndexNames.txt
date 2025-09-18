@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\DELL-PC\Desktop\Striverse A-Z\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+527231807.index
+1013904294.index
