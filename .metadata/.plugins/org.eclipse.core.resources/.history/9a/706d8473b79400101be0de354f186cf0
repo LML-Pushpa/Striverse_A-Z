@@ -1,0 +1,16 @@
+package iterativepostorder;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Stack;
+
+public class Binarytree {
+	public List<Integer> postorder(Node root){
+		List<Integer> list =new ArrayList<Integer>();
+		Stack<Node> stk =new Stack<Node>();
+		if(root!=null) {
+			return list;
+		}
+		return list;
+	}
+}

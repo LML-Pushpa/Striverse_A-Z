@@ -1,185 +1,43 @@
-0:21:16 Microsoft.NewBrowser_Popup
-0:21:16 Microsoft.BrowserList.AddBrowser
-0:21:16 Browser4 Insert active Tab4 at 0
-0:21:16 Tab4 StartNav21 #auto_toplevel
-0:21:16 Tab4 StartNav22 #typed
-0:21:16 Tab4 FinishNav21
-0:21:16 Tab4 PageLoad
-0:21:16 Tab4 FinishNav22
-0:21:16 Tab4 PageLoad
-0:21:16 Tab3 StartNav23 #typed
-0:21:16 Tab3 FinishNav23
-0:21:16 Tab3 PageLoad
-0:21:17 Tab4 StartNav24 #typed
-0:21:17 Tab4 FinishNav24
-0:21:17 Tab4 PageLoad
-0:21:34 Tab2 StartNav25 #typed
-0:21:34 Tab2 FinishNav25
-0:21:34 Tab2 PageLoad
-0:21:35 Tab2 StartNav26 #typed
-0:21:35 Tab2 FinishNav26
-0:21:35 Tab2 PageLoad
-0:22:19 Tab3 StartNav27 #typed
-0:22:19 Tab3 FinishNav27
-0:22:19 Tab3 PageLoad
-0:22:59 Tab3 StartNav28 #typed
-0:22:59 Tab3 FinishNav28
-0:22:59 Tab3 PageLoad
-0:23:18 Tab3 StartNav29 #typed
-0:23:18 Tab3 FinishNav29
-0:23:18 Tab3 PageLoad
-0:23:43 Tab3 StartNav30 #typed
-0:23:43 Tab3 FinishNav30
-0:23:43 Tab3 PageLoad
-0:23:44 Tab3 StartNav31 #typed
-0:23:44 Tab3 FinishNav31
-0:23:44 Tab3 PageLoad
-0:23:52 Tab2 StartNav32 #typed
-0:23:52 Tab2 FinishNav32
-0:23:52 Tab2 PageLoad
-0:24:08 Tab2 StartNav33 #typed
-0:24:08 Tab2 FinishNav33
-0:24:08 Tab2 PageLoad
-0:24:15 Tab2 StartNav34 #typed
-0:24:15 Tab2 FinishNav34
-0:24:15 Tab2 PageLoad
-0:24:20 Tab2 StartNav35 #typed
-0:24:20 Tab2 FinishNav35
-0:24:20 Tab2 PageLoad
-0:24:26 Tab2 StartNav36 #typed
-0:24:26 Tab2 FinishNav36
-0:24:26 Tab2 PageLoad
-0:24:58 Tab2 StartNav37 #typed
-0:24:58 Tab2 FinishNav37
-0:24:58 Tab2 PageLoad
-0:25:08 Tab2 StartNav38 #typed
-0:25:08 Tab2 FinishNav38
-0:25:08 Tab2 PageLoad
-0:25:22 Tab2 StartNav39 #typed
-0:25:22 Tab2 FinishNav39
-0:25:22 Tab2 PageLoad
-0:25:38 Tab2 StartNav40 #typed
-0:25:38 Tab2 FinishNav40
-0:25:38 Tab2 PageLoad
-0:25:39 Tab2 StartNav41 #typed
-0:25:39 Tab2 FinishNav41
-0:25:39 Tab2 PageLoad
-0:26:32 Tab2 StartNav42 #typed
-0:26:32 Tab2 FinishNav42
-0:26:32 Tab2 PageLoad
-0:26:33 Tab2 StartNav43 #typed
-0:26:33 Tab2 FinishNav43
-0:26:33 Tab2 PageLoad
-0:26:36 Tab2 StartNav44 #typed
-0:26:36 Tab2 FinishNav44
-0:26:36 Tab2 PageLoad
-0:27:22 Tab2 StartNav45 #typed
-0:27:22 Tab2 FinishNav45
-0:27:22 Tab2 PageLoad
-0:27:55 Tab2 StartNav46 #typed
-0:27:55 Tab2 FinishNav46
-0:27:55 Tab2 PageLoad
-0:28:21 Tab3 StartNav47 #typed
-0:28:21 Tab3 FinishNav47
-0:28:21 Tab3 PageLoad
-0:29:22 Tab3 StartNav48 #typed
-0:29:22 Tab3 FinishNav48
-0:29:22 Tab3 PageLoad
-0:29:31 Tab2 StartNav49 #typed
-0:29:31 Tab2 FinishNav49
-0:29:31 Tab2 PageLoad
-0:29:44 Tab2 StartNav50 #typed
-0:29:44 Tab2 FinishNav50
-0:29:44 Tab2 PageLoad
-0:29:52 Tab2 StartNav51 #typed
-0:29:52 Tab2 FinishNav51
-0:29:52 Tab2 PageLoad
-0:29:54 Tab2 StartNav52 #typed
-0:29:54 Tab2 FinishNav52
-0:29:54 Tab2 PageLoad
-0:30:05 Tab3 StartNav53 #typed
-0:30:05 Tab3 FinishNav53
-0:30:05 Tab3 PageLoad
-0:30:11 Tab3 StartNav54 #typed
-0:30:11 Tab3 FinishNav54
-0:30:11 Tab3 PageLoad
-0:30:12 Tab3 StartNav55 #typed
-0:30:12 Tab3 FinishNav55
-0:30:12 Tab3 PageLoad
-0:30:21 Tab3 StartNav56 #typed
-0:30:21 Tab3 FinishNav56
-0:30:21 Tab3 PageLoad
-0:30:26 Tab2 StartNav57 #typed
-0:30:26 Tab2 FinishNav57
-0:30:26 Tab2 PageLoad
-0:30:37 Tab2 StartNav58 #typed
-0:30:37 Tab2 FinishNav58
-0:30:37 Tab2 PageLoad
-0:30:39 Tab2 StartNav59 #typed
-0:30:39 Tab2 FinishNav59
-0:30:39 Tab2 PageLoad
-0:34:31 Tab2 StartNav60 #typed
-0:34:31 Tab2 FinishNav60
-0:34:31 Tab2 PageLoad
-0:34:41 Tab2 StartNav61 #typed
-0:34:41 Tab2 FinishNav61
-0:34:41 Tab2 PageLoad
-0:35:10 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
-0:00:00 Startup
-0:00:00 Microsoft.DeleteProfileHelper.CleanUpEphemeralProfiles
-0:00:00 Microsoft.DeleteProfileHelper.CleanUpDeletedProfiles
-0:00:00 Microsoft.NewBrowser_Popup
-0:00:00 Microsoft.BrowserList.AddBrowser
-0:00:00 Browser1 Insert active Tab1 at 0
-0:00:00 Tab1 StartNav1 #auto_toplevel
-0:00:00 Tab1 StartNav2 #typed
-0:00:00 Tab1 FinishNav1
-0:00:00 Tab1 PageLoad
-0:00:00 Tab1 FinishNav2
-0:00:00 Tab1 PageLoad
-0:00:00 Tab1 StartNav3 #typed
-0:00:00 Tab1 FinishNav3
-0:00:00 Tab1 PageLoad
-0:00:01 Tab1 StartNav4 #typed
-0:00:01 Tab1 FinishNav4
-0:00:01 Tab1 PageLoad
-0:00:54 Tab1 StartNav5 #typed
-0:00:54 Tab1 FinishNav5
-0:00:54 Tab1 PageLoad
-0:01:00 Tab1 StartNav6 #typed
-0:01:00 Tab1 FinishNav6
-0:01:00 Tab1 PageLoad
-0:01:09 Tab1 StartNav7 #typed
-0:01:09 Tab1 FinishNav7
-0:01:09 Tab1 PageLoad
-0:01:11 Tab1 StartNav8 #typed
-0:01:11 Tab1 FinishNav8
-0:01:11 Tab1 PageLoad
-0:01:23 Tab1 StartNav9 #typed
-0:01:23 Tab1 FinishNav9
-0:01:23 Tab1 PageLoad
-0:01:27 Tab1 StartNav10 #typed
-0:01:27 Tab1 FinishNav10
-0:01:27 Tab1 PageLoad
-0:01:32 Tab1 StartNav11 #typed
-0:01:32 Tab1 FinishNav11
-0:01:32 Tab1 PageLoad
-0:01:33 Tab1 StartNav12 #typed
-0:01:33 Tab1 FinishNav12
-0:01:33 Tab1 PageLoad
-0:02:55 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
-0:00:00 Startup
-0:00:00 Microsoft.DeleteProfileHelper.CleanUpEphemeralProfiles
-0:00:00 Microsoft.DeleteProfileHelper.CleanUpDeletedProfiles
-0:00:00 Microsoft.NewBrowser_Popup
-0:00:00 Microsoft.BrowserList.AddBrowser
-0:00:00 Browser1 Insert active Tab1 at 0
-0:00:00 Tab1 StartNav1 #auto_toplevel
-0:00:00 Tab1 StartNav2 #typed
-0:00:00 Tab1 FinishNav2 ERR_ABORTED
-0:00:00 Tab1 StartNav3 #typed
-0:00:00 Tab1 FinishNav1
-0:00:00 Tab1 PageLoad
-0:00:00 Tab1 FinishNav3
-0:00:00 Tab1 PageLoad
-0:00:07 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
+2:43:19 Memory Pressure: Moderate
+2:43:29 Memory Pressure: Moderate
+2:43:39 Memory Pressure: Moderate
+2:43:49 Memory Pressure: Moderate
+2:43:59 Memory Pressure: Moderate
+2:44:09 Memory Pressure: Moderate
+2:44:19 Memory Pressure: Moderate
+2:44:29 Memory Pressure: Moderate
+2:44:39 Memory Pressure: Moderate
+2:44:49 Memory Pressure: Moderate
+2:44:59 Memory Pressure: Moderate
+2:45:09 Memory Pressure: Moderate
+2:45:19 Memory Pressure: Moderate
+2:45:29 Memory Pressure: Moderate
+2:45:39 Memory Pressure: Moderate
+2:45:49 Memory Pressure: Moderate
+2:45:59 Memory Pressure: Moderate
+2:46:09 Memory Pressure: Moderate
+2:46:19 Memory Pressure: Moderate
+2:46:29 Memory Pressure: Moderate
+2:46:39 Memory Pressure: Moderate
+2:46:49 Memory Pressure: Moderate
+2:46:59 Memory Pressure: Moderate
+2:47:09 Memory Pressure: Moderate
+2:47:19 Memory Pressure: Moderate
+2:47:29 Memory Pressure: Moderate
+2:47:39 Memory Pressure: Moderate
+2:47:49 Memory Pressure: Moderate
+2:47:59 Memory Pressure: Moderate
+2:48:09 Memory Pressure: Moderate
+2:48:19 Memory Pressure: Moderate
+2:48:29 Memory Pressure: Moderate
+2:48:39 Memory Pressure: Moderate
+2:48:49 Memory Pressure: Moderate
+2:48:59 Memory Pressure: Moderate
+2:49:09 Memory Pressure: Moderate
+2:49:19 Memory Pressure: Moderate
+2:49:29 Memory Pressure: Moderate
+2:49:39 Memory Pressure: Moderate
+2:49:49 Memory Pressure: Moderate
+2:49:59 Memory Pressure: Moderate
+2:50:09 Memory Pressure: Moderate
+2:50:29 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
